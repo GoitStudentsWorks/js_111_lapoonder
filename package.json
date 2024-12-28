@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/superiore/",
+    "build": "vite build --base=/js_111_lapoonder/",
     "preview": "vite preview"
   },
   "devDependencies": {
